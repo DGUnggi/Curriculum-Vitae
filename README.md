@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=random&height=600&section=header&text=Welcome!-nl--nl-Ung%20Gi%20Lee's%20Github&decs=%20&fontSize=90&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=random&height=600&section=header&text=Welcome!-nl-Ung%20Gi%20Lee's%20Github&decs=%20&fontSize=90&animation=blinking)
 ---
 😁interest
 - AI system
