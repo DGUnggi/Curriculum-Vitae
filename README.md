@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGUnggi&layout=compact)](https://github.com/DGUnggi/github-readme-stats)
 ---
 
-💻** BOJ Problem Solving**
+💻**BOJ Problem Solving**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=logg72)](https://solved.ac/logg72)<br/>
 
