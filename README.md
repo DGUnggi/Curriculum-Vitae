@@ -13,7 +13,7 @@ Currently, i am a M.S student in the Department of Eletrical Engineering and Com
 👉**Career**
 |Date|Career|Description|
 |-------------|----------------|------------------|
-|2020.02~2026.02|Bachelor|DGIST Computer Science|
+|2020.02~2026.02|Bachelor(GPA: 3.82/4.30)|DGIST Computer Science|
 |2021.02~2022.08|Army|Unit Supply Sergeant|
 |2023.06~2023.08|Exchange Student|UCLA Electrical Engineering|
 |2023.12~2024.01|Intern|RTCL PyTorch Bootcamp|
