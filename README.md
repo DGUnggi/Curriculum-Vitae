@@ -1,9 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=random&height=600&section=header&text=Welcome!-nl-Ung%20Gi%20Lee's%20Github&decs=%20&fontSize=90&animation=blinking)
+Hello, this is Unggi's github page. Feel free to look around.
 ---
-😁**interest**
-- AI system
-- Real-time AI
-- Efficient computing
+💁🏻**Profile**   
+
+My name is Unggi Lee.   
+Currently, i am a M.S student in the Department of Eletrical Engineering and Computer Science at DGIST.
+
+---
+😁**Research interest**
+- Real-time AI System
+- Efficient computing under resource-constraint
 ---
 👉**Career**
 |Date|Career|Description|
