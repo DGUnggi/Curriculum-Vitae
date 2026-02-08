@@ -21,6 +21,9 @@ Currently, i am a M.S student in the Department of Eletrical Engineering and Com
 |2023.09~2026.02|Undergraduate Researcher|Real-Time Computing Lab(RTCL)|
 |2026.02~Current|Master|EECS RTCL|
 ---
+📑**Publication**   
+**WardrobeRL: Prompt-Aware Reinforcement Learning Based Top-Bottom Recommendation(ICTC 2025)**   
+(_Minseok Oh, Unggi Lee, Hyunmin Kim and Dooseok Lee (DGIST, Korea (South))_)   
 
 👨‍💻**Stacks**
 
